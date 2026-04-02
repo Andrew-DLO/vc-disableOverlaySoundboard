@@ -1,2 +1,6 @@
 # vc-disableOverlaySoundboard
-A plugin for Vencord that disables the in-game overlay soundboard
+A plugin for Vencord that disables the in-game overlay soundboard.
+
+Simply disables the entire soundboard while using the in-game overlay, usually accessed by ``Ctrl + ` `` or `Ctrl + /`.
+
+I made this plugin because I use ``Ctrl + ` `` as my toggle mute keybind and was tired of Discord playing super loud sounds every time I try to mute while in a game.
